@@ -1,2 +1,1 @@
-# hidden-file-recovery
-U盘隐藏文件恢复器
+# U盘隐藏文件恢复器
